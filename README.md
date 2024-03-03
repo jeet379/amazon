@@ -1,4 +1,4 @@
-Amazon-clone
+# Amazon-clone
 <br>
 Hey there,<br><br>
 • Amazon clone is a frontend based project designed using HTML & CSS.<br>
